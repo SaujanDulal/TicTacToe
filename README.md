@@ -66,3 +66,17 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+# Algorithm
+1. create  3 X 3 box.
+2. onClick eventHandler  on each box.
+3. when clicked inside a box. It displays "X" or "O"
+4. Ability to alternate value of X and O
+5. If there is already value, do not change the current value
+6. checkwin
+7. After checkwin, dont let user play
+8. Enable user to choose player 
+9. Display winner
+8. Reset
+
